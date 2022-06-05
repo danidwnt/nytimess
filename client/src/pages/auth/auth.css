@@ -1,0 +1,12 @@
+.wrapper-auth {
+    margin: auto auto;
+    margin-top: 130px;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 3px 8px;
+}
+
+.content-auth p{
+    width: 80%;
+    text-align: justify;
+}
