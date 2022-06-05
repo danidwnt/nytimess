@@ -1,0 +1,15 @@
+di clone dulu reponyo cak biaso
+git clone remote https://github.com/danidwnt/nytimess.git
+
+teros 
+- git init
+
+- git checkout main // misal kau masih ado di branch master git cekout funsinyo ontok pindah branch
+
+- git pull //ontok ambek seluru data repo yang ado misal ado updatean misal ado yang baru kawan kau commit/atau push pokok nyo ado dak ado git pull be
+
+- git add .
+
+- git commit -m "tambah css" //misal kau tambah css kau kasih message cak itu
+
+- git push origin main 
